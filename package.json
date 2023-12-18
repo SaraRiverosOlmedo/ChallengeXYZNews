@@ -1,0 +1,25 @@
+{
+  "name": "challengexyznews",
+  "version": "1.0.0",
+  "description": "XYZNews es una pequeña y mediana empresa dedicada a la generación de contenido informativo, ha expresado la necesidad de contar con una plataforma web que facilite la gestión, visualización y compartición de noticias de manera eficiente.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraRiverosOlmedo/ChallengeXYZNews.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraRiverosOlmedo/ChallengeXYZNews/issues"
+  },
+  "homepage": "https://github.com/SaraRiverosOlmedo/ChallengeXYZNews#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
